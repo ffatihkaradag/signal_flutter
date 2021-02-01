@@ -11,4 +11,3 @@ A new Flutter project.
 ![Alt text](screenshots/6.png?raw=true "6")
 ![Alt text](screenshots/7.png?raw=true "7")
 ![Alt text](screenshots/8.png?raw=true "8")
-![Alt text](screenshots/9.png?raw=true "9")
