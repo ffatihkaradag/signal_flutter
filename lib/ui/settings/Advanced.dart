@@ -38,7 +38,7 @@ class _AdvancedState extends State<Advanced> {
                 children: [
                   ListTile(
                     title: Text('Signal messages and calls'),
-                    subtitle: Text('youtube@indieclan'),
+                    subtitle: Text('info@signal.app'),
                     trailing: Switch(
                       value: true,
                       onChanged: (value) {},
@@ -49,7 +49,7 @@ class _AdvancedState extends State<Advanced> {
                   ),
                   ListTile(
                     title: Text('Submit debug log'),
-                    subtitle: Text('Signal 5.0.8'),
+                    subtitle: Text('Signal '),
                   ),
                 ],
               ),
